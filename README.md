@@ -2,6 +2,8 @@
 
 Terraform for hosting a secure static website hosted on AWS using S3.
 
+There is a [step by step guide](https://www.alexhyett.com/terraform-s3-static-website-hosting) for this code on my [blog](https://www.alexhyett.com/terraform-s3-static-website-hosting).
+
 The terraform will set up the following components:
 
 - S3 bucket for www.yourdomain.com which will host your website files.
