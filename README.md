@@ -1,6 +1,6 @@
 # alexhyett/terraform-s3-static-website
 
-This repository has been moved to my [personal git instance](https://git.alexhyett.com/alexhyett/linkinbio).
+This repository has been moved to my [personal git instance](https://git.alexhyett.com/alexhyett/terraform-s3-static-website).
 
 ## Why?
 GitHub hasn't quite been the same since being acquired by Microsoft in [2018](https://en.wikipedia.org/wiki/GitHub#Acquisition_by_Microsoft). I stuck with it for a while but as of [August 2025](https://www.theverge.com/news/757461/microsoft-github-thomas-dohmke-resignation-coreai-team-transition) GitHub is going to be part of Microsoft's CoreAI team.
